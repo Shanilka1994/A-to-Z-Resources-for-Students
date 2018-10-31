@@ -5,7 +5,7 @@
 ```
 Instructions :
 
-- Please consider adding your national flag above, if it is not there.
+- Please consider adding your national flag above, if it is not there.!
 
 - Add your detail at the bottom of the second table (CONTRIBUTORS.md).
 
